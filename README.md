@@ -1,8 +1,8 @@
-# 🚗 Auto-Park-GUI
+# 🚗 Car-Lot-GUI
 
-Auto-Park-GUI is a JavaFX-based desktop application designed to simulate an Auto Park inventory and sales system. It uses the Model–View–Controller (**MVC**) architecture to separate the underlying data model from the graphical interface and controller logic. The program displays available vehicles, allows the user to **add** or **remove** items from a cart, and updates inventory quantities in real time.
+Car-Lot-GUI is a JavaFX-based desktop application designed to simulate an Car Lot inventory and sales system. It uses the Model–View–Controller (**MVC**) architecture to separate the underlying data model from the graphical interface and controller logic. The program displays available vehicles, allows the user to **add** or **remove** items from a cart, and updates inventory quantities in real time.
 
-The application also tracks the number of sales, total revenue, and the most popular items based on units sold. With responsive list views, custom UI panes, and event-driven interactions, Auto-Park-GUI provides a simple but functional example of a JavaFX application built with proper **object-oriented design principles**.
+The application also tracks the number of sales, total revenue, and the most popular items based on units sold. With responsive list views, custom UI panes, and event-driven interactions, Car-Lot-GUI provides a simple but functional example of a JavaFX application built with proper **object-oriented design principles**.
 
 ## 🛠 Requirements
 
